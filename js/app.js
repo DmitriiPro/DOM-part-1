@@ -6,42 +6,42 @@ newApp.prepend(newUl); // добавляем сам ul после див но в
 const arrBase = [
 
     {
-        url:"../img/batman.jpg",
+        url:"img/batman.jpg",
         title: "Бэтмен",
     },
 
     {
-        url:"../img/capitan-amerika.jpg",
+        url:"img/capitan-amerika.jpg",
         title: "Капитан америка",
     },
 
     {
-        url: "../img/deadpull.jpg",
+        url: "img/deadpull.jpg",
         title: "Дэдпул",
     },
 
     {
-        url: "../img/groot.jpg",
+        url: "img/groot.jpg",
         title: "Малыш грут",
     }, 
 
     {
-        url: "../img/hulk.jpg",
+        url: "img/hulk.jpg",
         title: "Халк",
     }, 
 
     {
-        url: "../img/spider-man.jpg",
+        url: "img/spider-man.jpg",
         title: "Человек паук",
     },
 
     {
-        url: "../img/starwars.jpg",
+        url: "img/starwars.jpg",
         title: "Имперские штурмовики",
     },
 
     {
-        url: "../img/superman.jpg",
+        url: "img/superman.jpg",
         title: "Супермен",
     }
 
